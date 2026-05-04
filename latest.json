@@ -1,0 +1,11 @@
+{
+  "version": "1.1.0",
+  "notes": "Seba Shop Management Software - New updates and improvements.",
+  "pub_date": "2026-05-04T10:00:00Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaTNPSFNJWDI4bUhmZ1A1K01uUXNuSldpZmovZVI0Nll0eko4WWV1UmtXOHYxWk5aVlhsaTFhbVl3SDJkUjBBKzkrUmtCTmNvVzhtWGI3U3JjcEcyVVRLbEFDUzc3ZWdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3ODQ2NzA3CWZpbGU6c2ViYS1zaG9wLW1hbmFnZW1lbnRfMS4xLjBfeDY0LXNldHVwLmV4ZQp2Qkx6ekNTYUxqSW8rclZoZlkrMVBteDA1Sjgybm55VFRsbHZIbkRZV2pha3E1MHJnNWVabXRWbTY2a0x1d0J1R3NIb0RuVzJMV0hlSjFHcitXQ3dDQT09Cg==",
+      "url": "https://github.com/ashrafulazom/Seba-Shop-Management/releases/download/v1.1.0/seba-shop-management_1.1.0_x64-setup.exe"
+    }
+  }
+}
